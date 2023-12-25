@@ -1,0 +1,60 @@
+.header {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: flex;
+    padding-left: 100px;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#phonelogo{
+    padding-left: 100px;
+    margin-bottom: -4px;
+    
+}
+#procabinetlogo{
+    width: 100px;
+    margin: 0 350px 0 0;
+}
+
+
+
+ul{
+    list-style: none;
+}
+
+
+
+ul li{
+    display: inline-block;
+    font-size: 15px;
+}
+
+.center{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 0px;
+    padding: 10px;
+    margin: 0 10px;
+    font-size: 15px;
+}
+
+
+
+.number{
+    text-decoration: none;
+    color: black;
+    text-decoration: underline;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    margin: 0 10px;
+}
+
+a:hover{
+    background-color: lightgray;
+}
+select:hover{
+    background-color: lightgray;
+}
